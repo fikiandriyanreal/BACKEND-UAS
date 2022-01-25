@@ -1,0 +1,305 @@
+{
+  "header": [
+    {
+      "mainheader": [
+        {
+          "logo": {
+            "text": "fox university",
+            "url": "https://preview.colorlib.com/theme/fox/about.html"
+          }
+        },
+        {
+          "icon": "paperplane",
+          "text": "email",
+          "subtext": "youreemail@email.com"
+        },
+        {
+          "icon": "phone",
+          "text": "call",
+          "subtext": "Call Us: + 1235 2355 98"
+        },
+        {
+          "button": {
+            "text": "Apply now",
+            "url": "https://preview.colorlib.com/theme/fox/about.html#"
+          }
+        }
+      ]
+    },
+    {
+      "navbar": [
+        {
+          "text": "home",
+          "url": "https://preview.colorlib.com/theme/fox/index.html"
+        },
+        {
+          "text": "about",
+          "url": "https://preview.colorlib.com/theme/fox/about.html"
+        },
+        {
+          "text": "Courses",
+          "url": "https://preview.colorlib.com/theme/fox/courses.html"
+        },
+        {
+          "text": "staff",
+          "url": "https://preview.colorlib.com/theme/fox/teacher.html"
+        },
+        {
+          "text": "blog",
+          "url": "https://preview.colorlib.com/theme/fox/blog.html"
+        },
+        {
+          "text": "contact",
+          "url": "https://preview.colorlib.com/theme/fox/contact.html"
+        },
+        {
+          "Searchbar": [
+            {
+              "text": "search",
+              "type": "input"
+            },
+            {
+              "type": "button",
+              "icon": "search"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "body": [
+    {
+      "jumbotron": {
+        "background-image": "images/xbg_1.jpg.pagespeed.ic._C6ebyFa8h.webp",
+        "title": "About Us",
+        "link-text": [
+          {
+            "text": "HOME",
+            "url": "https://preview.colorlib.com/theme/fox/index.html"
+          },
+          {
+            "text": "About Us",
+            "url": "https://preview.colorlib.com/theme/fox/about.html"
+          }
+        ]
+      },
+
+      "allabout-us": [
+        {
+          "background-image": "images/xabout.jpg.pagespeed.ic.tRwUCMkUuR.webp",
+          "title": "Fox University Stablished Since 1960",
+          "description": [
+            {
+              "descabout": "On her way she met a copy. The copy warned the Little Blind Text, that where it came from it would have been rewritten a thousand times and everything that was left from its origin would be the word."
+            },
+            {
+              "descabout": "A small river named Duden flows by their place and supplies it with the necessary regelialia. It is a paradisematic country, in which roasted parts of sentences fly into your mouth."
+            },
+            {
+              "descabout": "On her way she met a copy. The copy warned the Little Blind Text, that where it came from it would have been rewritten a thousand times and everything that was left from its origin would be the word and and the Little Blind Text should turn around and return to its own, safe country. But nothing the copy said could convince her and so it didnt take long until a few insidious Copy Writers ambushed her, made her drunk with Longe and Parole and dragged her into their agency, where they abused her for their"
+            }
+          ]
+        }
+      ],
+      "content": {
+        "title": "Fox University",
+        "descaboutus": "Separated they live in. A small river named Duden flows by their place and supplies it with the necessary regelialia. It is a paradisematic country. A small river named Duden flows by their place and supplies it with the necessary regelialia. It is a paradisematic country, in which roasted parts of sentences fly into your mouth.A small river named Duden flows by their place and supplies it with the necessary regelialia. It is a paradisematic country, in which roasted parts of sentences fly into your mouth.",
+        "background-image": "images/xabout2.jpg.pagespeed.ic.tRwUCMkUuR.webp",
+        "icon": "video",
+        "certified-teachers": 18,
+        "students": 401,
+        "courses": 30,
+        "awards-won": 50
+      },
+      "testimoni": [
+        {
+          "title": "Student Says About Us",
+          "subtitle": "Separated they live in. A small river named Duden flows by their place and supplies it with the necessary regelialia. It is a paradisematic country",
+          "description": [
+            {
+              "background-image": "images/xteacher-1.jpg.pagespeed.ic.HLF1ajQ_dd.webp",
+              "name": "Ken Bosh",
+              "quote": "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.",
+              "as": "mother"
+            },
+            {
+              "background-image": "images/xteacher-1.jpg.pagespeed.ic.HLF1ajQ_dd.webp",
+              "name": "Racky Henderson",
+              "quote": "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.",
+              "as": "father"
+            },
+            {
+              "background-image": "images/xteacher-2.jpg.pagespeed.ic.HLF1ajQ_dd.webp",
+              "name": "Henry dee",
+              "quote": "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.",
+              "as": "mother"
+            },
+            {
+              "background-image": "images/xteacher-3.jpg.pagespeed.ic.HLF1ajQ_dd.webp",
+              "name": "Mark huff",
+              "quote": "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.",
+              "as": "mother"
+            },
+            {
+              "background-image": "images/xteacher-4.jpg.pagespeed.ic.HLF1ajQ_dd.webp",
+              "name": "Rodel Golez",
+              "quote": "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.",
+              "as": "mother"
+            }
+          ]
+        }
+      ],
+      "galeri": [
+        {
+          "image": [
+            {
+              "background-image": "https://preview.colorlib.com/theme/fox/images/image_1.jpg",
+              "button": {
+                "type": "zoom",
+                "icon": "instagram"
+              }
+            },
+            {
+              "background-image": "https://preview.colorlib.com/theme/fox/images/image_2.jpg",
+              "button": {
+                "type": "zoom",
+                "icon": "instagram"
+              }
+            },
+            {
+              "background-image": "https://preview.colorlib.com/theme/fox/images/image_3.jpg",
+              "button": {
+                "type": "zoom",
+                "icon": "instagram"
+              }
+            },
+            {
+              "background-image": "https://preview.colorlib.com/theme/fox/images/image_4.jpg",
+              "button": {
+                "type": "zoom",
+                "icon": "instagram"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "footer": [
+    {
+      "text": "Have A Questions?",
+      "link-ico": [
+        {
+          "icon": "map",
+          "text": "230 fake St.Mountain ViewSan Francisco California USA"
+        },
+        {
+          "icon": "phone",
+          "text": "+2 392 3929 210",
+          "url": "https://preview.colorlib.com/theme/fox/about.html#"
+        },
+        {
+          "icon": "envelope",
+          "text": "info@yourdomain.com",
+          "url": "https://preview.colorlib.com/theme/fox/about.html#"
+        }
+      ],
+      "recent-blog": [
+        {
+          "idblog": 1,
+          "background-image": "images/ximage_1.jpg.pagespeed.ic.50lFnH-QVI.webp",
+          "title": "Even the all-powerful Pointing has no control about",
+          "date": "26 june 2019",
+          "more": [
+            {
+              "text": "admin",
+              "url": "https://preview.colorlib.com/theme/fox/about.html#"
+            }
+          ],
+          "link-ico": [
+            {
+              "icon": "chat",
+              "text": "19",
+              "url": "https://preview.colorlib.com/theme/fox/about.html#"
+            }
+          ]
+        },
+        {
+          "idblog": 2,
+          "background-image": "images/ximage_2.jpg.pagespeed.ic.50lFnH-QVI.webp",
+          "title": "Even the all-powerful Pointing has no control about",
+          "date": "26 june 2019",
+          "more": [
+            {
+              "text": "admin",
+              "url": "https://preview.colorlib.com/theme/fox/about.html#"
+            }
+          ],
+          "link-ico": [
+            {
+              "icon": "chat",
+              "text": "19",
+              "url": "https://preview.colorlib.com/theme/fox/about.html#"
+            }
+          ]
+        }
+      ],
+      "links": [
+        {
+          "text": "Home",
+          "url": "https://preview.colorlib.com/theme/fox/about.html#"
+        },
+        {
+          "text": "About",
+          "url": "https://preview.colorlib.com/theme/fox/about.html#"
+        },
+        {
+          "text": "Servces",
+          "url": "https://preview.colorlib.com/theme/fox/about.html#"
+        },
+        {
+          "text": "Departmens",
+          "url": "https://preview.colorlib.com/theme/fox/about.html#"
+        },
+        {
+          "text": "Contact",
+          "url": "https://preview.colorlib.com/theme/fox/about.html#"
+        }
+      ],
+      "subscribe": [
+        {
+          "button": [
+            {
+              "type": "text",
+              "text": "Enter email addres"
+            },
+            {
+              "type": "submit",
+              "text": "subscribe"
+            }
+          ],
+          "connect": [
+            {
+              "title": "connect with us",
+              "link-ico": [
+                {
+                  "icon": "twiter",
+                  "url": "https://preview.colorlib.com/theme/fox/about.html?#"
+                },
+                {
+                  "icon": "facebook",
+                  "url": "https://preview.colorlib.com/theme/fox/about.html?#"
+                },
+                {
+                  "icon": "instagram",
+                  "url": "https://preview.colorlib.com/theme/fox/about.html?#"
+                }
+              ]
+            }
+          ],
+          "text": "Copyright ©2022 All rights reserved | This template is made with  by Colorlib"
+        }
+      ]
+    }
+  ]
+}

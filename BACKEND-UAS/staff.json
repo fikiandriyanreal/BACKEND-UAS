@@ -1,0 +1,407 @@
+{
+  "header": [
+    {
+      "mainheader": [
+        {
+          "logo": {
+            "text": "fox university",
+            "url": "https://preview.colorlib.com/theme/fox/index.html"
+          }
+        },
+        {
+          "icon": "paperplane",
+          "text": "email",
+          "subtext": "youreemail@email.com"
+        },
+        {
+          "icon": "phone",
+          "text": "call",
+          "subtext": "Call Us: + 1235 2355 98"
+        },
+        {
+          "button": {
+            "text": "Apply now",
+            "url": "https://preview.colorlib.com/theme/fox/teacher.html#"
+          }
+        }
+      ]
+    },
+    {
+      "navbar": [
+        {
+          "text": "home",
+          "url": "https://preview.colorlib.com/theme/fox/index.html"
+        },
+        {
+          "text": "about",
+          "url": "https://preview.colorlib.com/theme/fox/about.html"
+        },
+        {
+          "text": "teacher",
+          "url": "https://preview.colorlib.com/theme/fox/teacher.html"
+        },
+        {
+          "text": "staff",
+          "url": "https://preview.colorlib.com/theme/fox/teacher.html"
+        },
+        {
+          "text": "blog",
+          "url": "https://preview.colorlib.com/theme/fox/blog.html"
+        },
+        {
+          "text": "contact",
+          "url": "https://preview.colorlib.com/theme/fox/contact.html"
+        },
+        {
+          "Searchbar": [
+            {
+              "text": "search",
+              "type": "input"
+            },
+            {
+              "type": "button",
+              "icon": "search"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "body": [
+    {
+      "jumbotron": {
+        "background-image": "images/xbg_1.jpg.pagespeed.ic._C6ebyFa8h.webp",
+        "title": "Certified Teacher",
+        "link-text": [
+          {
+            "text": "HOME",
+            "url": "https://preview.colorlib.com/theme/fox/index.html"
+          },
+          {
+            "text": "teacher",
+            "url": "https://preview.colorlib.com/theme/fox/teacher.html"
+          }
+        ]
+      },
+      "allteachers": [
+        {
+          "teachersid": 1,
+          "background-image": "images/xteacher-1.jpg.pagespeed.ic.HLF1ajQ_dd.webp",
+          "name": "Bianca Wilson",
+          "as": "teacher",
+          "descteachers": "I am an ambitious workaholic, but apart from that, pretty simple person.",
+          "link-ico": [
+            {
+              "icon": "twiter",
+              "url": "https://preview.colorlib.com/theme/fox/teacher.html#"
+            },
+            {
+              "icon": "faceebok",
+              "url": "https://preview.colorlib.com/theme/fox/teacher.html#"
+            },
+            {
+              "icon": "google+",
+              "url": "https://preview.colorlib.com/theme/fox/teacher.html#"
+            },
+            {
+              "icon": "instagram",
+              "url": "https://preview.colorlib.com/theme/fox/teacher.html#"
+            }
+          ]
+        },
+        {
+          "teachersid": 2,
+          "background-image": "images/xteacher-2.jpg.pagespeed.ic.HLF1ajQ_dd.webp",
+          "name": "Mitch Parker",
+          "as": "english teacher",
+          "descteachers": "I am an ambitious workaholic, but apart from that, pretty simple person.",
+          "link-ico": [
+            {
+              "icon": "twiter",
+              "url": "https://preview.colorlib.com/theme/fox/teacher.html#"
+            },
+            {
+              "icon": "faceebok",
+              "url": "https://preview.colorlib.com/theme/fox/teacher.html#"
+            },
+            {
+              "icon": "google+",
+              "url": "https://preview.colorlib.com/theme/fox/teacher.html#"
+            },
+            {
+              "icon": "instagram",
+              "url": "https://preview.colorlib.com/theme/fox/teacher.html#"
+            }
+          ]
+        },
+        {
+          "teachersid": 3,
+          "background-image": "images/xteacher-3.jpg.pagespeed.ic.HLF1ajQ_dd.webp",
+          "name": "Stella Smith",
+          "as": "art teacher",
+          "descteachers": "I am an ambitious workaholic, but apart from that, pretty simple person.",
+          "link-ico": [
+            {
+              "icon": "twiter",
+              "url": "https://preview.colorlib.com/theme/fox/teacher.html#"
+            },
+            {
+              "icon": "faceebok",
+              "url": "https://preview.colorlib.com/theme/fox/teacher.html#"
+            },
+            {
+              "icon": "google+",
+              "url": "https://preview.colorlib.com/theme/fox/teacher.html#"
+            },
+            {
+              "icon": "instagram",
+              "url": "https://preview.colorlib.com/theme/fox/teacher.html#"
+            }
+          ]
+        },
+        {
+          "teachersid": 4,
+          "background-image": "images/xteacher-4.jpg.pagespeed.ic.HLF1ajQ_dd.webp",
+          "name": "Monshe Henderson",
+          "as": "science teacher",
+          "descteachers": "I am an ambitious workaholic, but apart from that, pretty simple person.",
+          "link-ico": [
+            {
+              "icon": "twiter",
+              "url": "https://preview.colorlib.com/theme/fox/teacher.html#"
+            },
+            {
+              "icon": "faceebok",
+              "url": "https://preview.colorlib.com/theme/fox/teacher.html#"
+            },
+            {
+              "icon": "google+",
+              "url": "https://preview.colorlib.com/theme/fox/teacher.html#"
+            },
+            {
+              "icon": "instagram",
+              "url": "https://preview.colorlib.com/theme/fox/teacher.html#"
+            }
+          ]
+        },
+        {
+          "teachersid": 5,
+          "background-image": "images/xteacher-5.jpg.pagespeed.ic.HLF1ajQ_dd.webp",
+          "name": "Bianca Wilson",
+          "as": "teacher",
+          "descteachers": "I am an ambitious workaholic, but apart from that, pretty simple person.",
+          "link-ico": [
+            {
+              "icon": "twiter",
+              "url": "https://preview.colorlib.com/theme/fox/teacher.html#"
+            },
+            {
+              "icon": "faceebok",
+              "url": "https://preview.colorlib.com/theme/fox/teacher.html#"
+            },
+            {
+              "icon": "google+",
+              "url": "https://preview.colorlib.com/theme/fox/teacher.html#"
+            },
+            {
+              "icon": "instagram",
+              "url": "https://preview.colorlib.com/theme/fox/teacher.html#"
+            }
+          ]
+        },
+        {
+          "teachersid": 6,
+          "background-image": "images/xteacher-6.jpg.pagespeed.ic.HLF1ajQ_dd.webp",
+          "name": "Mitch Parker",
+          "as": "English Teacher",
+          "descteachers": "I am an ambitious workaholic, but apart from that, pretty simple person.",
+          "link-ico": [
+            {
+              "icon": "twiter",
+              "url": "https://preview.colorlib.com/theme/fox/teacher.html#"
+            },
+            {
+              "icon": "faceebok",
+              "url": "https://preview.colorlib.com/theme/fox/teacher.html#"
+            },
+            {
+              "icon": "google+",
+              "url": "https://preview.colorlib.com/theme/fox/teacher.html#"
+            },
+            {
+              "icon": "instagram",
+              "url": "https://preview.colorlib.com/theme/fox/teacher.html#"
+            }
+          ]
+        },
+        {
+          "teachersid": 7,
+          "background-image": "images/xteacher-7.jpg.pagespeed.ic.HLF1ajQ_dd.webp",
+          "name": "Stella Smith",
+          "as": "art teacher",
+          "descteachers": "I am an ambitious workaholic, but apart from that, pretty simple person.",
+          "link-ico": [
+            {
+              "icon": "twiter",
+              "url": "https://preview.colorlib.com/theme/fox/teacher.html#"
+            },
+            {
+              "icon": "faceebok",
+              "url": "https://preview.colorlib.com/theme/fox/teacher.html#"
+            },
+            {
+              "icon": "google+",
+              "url": "https://preview.colorlib.com/theme/fox/teacher.html#"
+            },
+            {
+              "icon": "instagram",
+              "url": "https://preview.colorlib.com/theme/fox/teacher.html#"
+            }
+          ]
+        },
+        {
+          "teachersid": 8,
+          "background-image": "images/xteacher-8.jpg.pagespeed.ic.HLF1ajQ_dd.webp",
+          "name": "Monshe Henderson",
+          "as": "science teacher",
+          "descteachers": "I am an ambitious workaholic, but apart from that, pretty simple person.",
+          "link-ico": [
+            {
+              "icon": "twiter",
+              "url": "https://preview.colorlib.com/theme/fox/teacher.html#"
+            },
+            {
+              "icon": "faceebok",
+              "url": "https://preview.colorlib.com/theme/fox/teacher.html#"
+            },
+            {
+              "icon": "google+",
+              "url": "https://preview.colorlib.com/theme/fox/teacher.html#"
+            },
+            {
+              "icon": "instagram",
+              "url": "https://preview.colorlib.com/theme/fox/teacher.html#"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "footer": [
+    {
+      "text": "Have A Questions?",
+      "link-ico": [
+        {
+          "icon": "map",
+          "text": "230 fake St.Mountain ViewSan Francisco California USA"
+        },
+        {
+          "icon": "phone",
+          "text": "+2 392 3929 210",
+          "url": "https://preview.colorlib.com/theme/fox/teacher.html#"
+        },
+        {
+          "icon": "envelope",
+          "text": "info@yourdomain.com",
+          "url": "https://preview.colorlib.com/theme/fox/teacher.html#"
+        }
+      ],
+      "recent-blog": [
+        {
+          "idblog": 1,
+          "background-image": "images/ximage_1.jpg.pagespeed.ic.50lFnH-QVI.webp",
+          "title": "Even the all-powerful Pointing has no control about",
+          "date": "26 june 2019",
+          "more": [
+            {
+              "text": "admin",
+              "url": "https://preview.colorlib.com/theme/fox/teacher.html#"
+            }
+          ],
+          "link-ico": [
+            {
+              "icon": "chat",
+              "text": "19",
+              "url": "https://preview.colorlib.com/theme/fox/teacher.html#"
+            }
+          ]
+        },
+        {
+          "idblog": 2,
+          "background-image": "images/ximage_2.jpg.pagespeed.ic.50lFnH-QVI.webp",
+          "title": "Even the all-powerful Pointing has no control about",
+          "date": "26 june 2019",
+          "more": [
+            {
+              "text": "admin",
+              "url": "https://preview.colorlib.com/theme/fox/teacher.html#"
+            }
+          ],
+          "link-ico": [
+            {
+              "icon": "chat",
+              "text": "19",
+              "url": "https://preview.colorlib.com/theme/fox/teacher.html#"
+            }
+          ]
+        }
+      ],
+      "links": [
+        {
+          "text": "Home",
+          "url": "https://preview.colorlib.com/theme/fox/teacher.html#"
+        },
+        {
+          "text": "About",
+          "url": "https://preview.colorlib.com/theme/fox/teacher.html#"
+        },
+        {
+          "text": "Servces",
+          "url": "https://preview.colorlib.com/theme/fox/teacher.html#"
+        },
+        {
+          "text": "Departmens",
+          "url": "https://preview.colorlib.com/theme/fox/teacher.html#"
+        },
+        {
+          "text": "Contact",
+          "url": "https://preview.colorlib.com/theme/fox/teacher.html#"
+        }
+      ],
+      "subscribe": [
+        {
+          "button": [
+            {
+              "type": "text",
+              "text": "Enter email addres"
+            },
+            {
+              "type": "submit",
+              "text": "subscribe"
+            }
+          ],
+          "connect": [
+            {
+              "title": "connect with us",
+              "link-ico": [
+                {
+                  "icon": "twiter",
+                  "url": "https://preview.colorlib.com/theme/fox/teacher.html?#"
+                },
+                {
+                  "icon": "facebook",
+                  "url": "https://preview.colorlib.com/theme/fox/teacher.html?#"
+                },
+                {
+                  "icon": "instagram",
+                  "url": "https://preview.colorlib.com/theme/fox/teacher.html?#"
+                }
+              ]
+            }
+          ],
+          "text": "Copyright ©2022 All rights reserved | This template is made with  by Colorlib"
+        }
+      ]
+    }
+  ]
+}

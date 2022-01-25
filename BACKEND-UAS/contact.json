@@ -1,0 +1,235 @@
+{
+  "header": [
+    {
+      "mainheader": [
+        {
+          "logo": {
+            "text": "fox university",
+            "url": "https://preview.colorlib.com/theme/fox/index.html"
+          }
+        },
+        {
+          "icon": "paperplane",
+          "text": "email",
+          "subtext": "youreemail@email.com"
+        },
+        {
+          "icon": "phone",
+          "text": "call",
+          "subtext": "Call Us: + 1235 2355 98"
+        },
+        {
+          "button": {
+            "text": "Apply now",
+            "url": "https://preview.colorlib.com/theme/fox/contact.html#"
+          }
+        }
+      ]
+    },
+    {
+      "navbar": [
+        {
+          "text": "home",
+          "url": "https://preview.colorlib.com/theme/fox/index.html"
+        },
+        {
+          "text": "about",
+          "url": "https://preview.colorlib.com/theme/fox/about.html"
+        },
+        {
+          "text": "contact",
+          "url": "https://preview.colorlib.com/theme/fox/contact.html"
+        },
+        {
+          "text": "staff",
+          "url": "https://preview.colorlib.com/theme/fox/contact.html"
+        },
+        {
+          "text": "contact",
+          "url": "https://preview.colorlib.com/theme/fox/contact.html"
+        },
+        {
+          "text": "contact",
+          "url": "https://preview.colorlib.com/theme/fox/contact.html"
+        },
+        {
+          "Searchbar": [
+            {
+              "text": "search",
+              "type": "input"
+            },
+            {
+              "type": "button",
+              "icon": "search"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "body": [
+    {
+      "allcontact": [
+        {
+          "text": "Addres",
+          "description": "198 West 21th Street, Suite 721 New York NY 10016"
+        },
+        {
+          "text": "Contact Number",
+          "description": "+ 1235 2355 98"
+        },
+        {
+          "text": "Email Address",
+          "description": "info@yoursite.com"
+        },
+        {
+          "text": "Website",
+          "description": "yoursite.com"
+        }
+      ],
+      "maps": {
+        "url": "https://preview.colorlib.com/theme/fox/contact.html"
+      },
+      "input": [
+        {
+          "type": "text",
+          "text": "Your name"
+        },
+        {
+          "type": "text",
+          "text": "Your email"
+        },
+        {
+          "type": "text",
+          "text": "Subject"
+        },
+        {
+          "type": "text-area",
+          "text": "Message"
+        }
+      ],
+      "button": {
+        "type": "button",
+        "text": "Send Message",
+        "url": "https://preview.colorlib.com/theme/fox/contact.html?#"
+      }
+    }
+  ],
+  "footer": [
+    {
+      "text": "Have A Questions?",
+      "link-ico": [
+        {
+          "icon": "map",
+          "text": "230 fake St.Mountain ViewSan Francisco California USA"
+        },
+        {
+          "icon": "phone",
+          "text": "+2 392 3929 210",
+          "url": "https://preview.colorlib.com/theme/fox/contact.html#"
+        },
+        {
+          "icon": "envelope",
+          "text": "info@yourdomain.com",
+          "url": "https://preview.colorlib.com/theme/fox/contact.html#"
+        }
+      ],
+      "recent-contact": [
+        {
+          "idcontact": 1,
+          "background-image": "images/ximage_1.jpg.pagespeed.ic.50lFnH-QVI.webp",
+          "title": "Even the all-powerful Pointing has no control about",
+          "date": "26 june 2019",
+          "more": [
+            {
+              "text": "admin",
+              "url": "https://preview.colorlib.com/theme/fox/contact.html#"
+            }
+          ],
+          "link-ico": [
+            {
+              "icon": "chat",
+              "text": "19",
+              "url": "https://preview.colorlib.com/theme/fox/contact.html#"
+            }
+          ]
+        },
+        {
+          "idcontact": 2,
+          "background-image": "images/ximage_2.jpg.pagespeed.ic.50lFnH-QVI.webp",
+          "title": "Even the all-powerful Pointing has no control about",
+          "date": "26 june 2019",
+          "more": [
+            {
+              "text": "admin",
+              "url": "https://preview.colorlib.com/theme/fox/contact.html#"
+            }
+          ],
+          "link-ico": [
+            {
+              "icon": "chat",
+              "text": "19",
+              "url": "https://preview.colorlib.com/theme/fox/contact.html#"
+            }
+          ]
+        }
+      ],
+      "links": [
+        {
+          "text": "Home",
+          "url": "https://preview.colorlib.com/theme/fox/contact.html#"
+        },
+        {
+          "text": "About",
+          "url": "https://preview.colorlib.com/theme/fox/contact.html#"
+        },
+        {
+          "text": "Servces",
+          "url": "https://preview.colorlib.com/theme/fox/contact.html#"
+        },
+        {
+          "text": "Departmens",
+          "url": "https://preview.colorlib.com/theme/fox/contact.html#"
+        },
+        {
+          "text": "Contact",
+          "url": "https://preview.colorlib.com/theme/fox/contact.html#"
+        }
+      ],
+      "subscribe": [
+        {
+          "button": [
+            {
+              "type": "text",
+              "text": "Enter email addres"
+            },
+            {
+              "type": "submit",
+              "text": "subscribe"
+            }
+          ],
+          "connect": [
+            {
+              "title": "connect with us",
+              "link-ico": [
+                {
+                  "icon": "twiter",
+                  "url": "https://preview.colorlib.com/theme/fox/contact.html?#"
+                },
+                {
+                  "icon": "facebook",
+                  "url": "https://preview.colorlib.com/theme/fox/contact.html?#"
+                },
+                {
+                  "icon": "instagram",
+                  "url": "https://preview.colorlib.com/theme/fox/contact.html?#"
+                }
+              ]
+            }
+          ],
+          "text": "Copyright ©2022 All rights reserved | This template is made with  by Colorlib"
+        }
+      ]
+    }
+  ]
+}

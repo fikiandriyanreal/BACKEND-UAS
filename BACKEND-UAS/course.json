@@ -1,0 +1,431 @@
+{
+  "header": [
+    {
+      "mainheader": [
+        {
+          "logo": {
+            "text": "fox university",
+            "url": "https://preview.colorlib.com/theme/fox/courses.html"
+          }
+        },
+        {
+          "icon": "paperplane",
+          "text": "email",
+          "subtext": "youreemail@email.com"
+        },
+        {
+          "icon": "phone",
+          "text": "call",
+          "subtext": "Call Us: + 1235 2355 98"
+        },
+        {
+          "button": {
+            "text": "Apply now",
+            "url": "https://preview.colorlib.com/theme/fox/courses.html#"
+          }
+        }
+      ]
+    },
+    {
+      "navbar": [
+        {
+          "text": "home",
+          "url": "https://preview.colorlib.com/theme/fox/index.html"
+        },
+        {
+          "text": "about",
+          "url": "https://preview.colorlib.com/theme/fox/about.html"
+        },
+        {
+          "text": "Courses",
+          "url": "https://preview.colorlib.com/theme/fox/courses.html"
+        },
+        {
+          "text": "staff",
+          "url": "https://preview.colorlib.com/theme/fox/teacher.html"
+        },
+        {
+          "text": "blog",
+          "url": "https://preview.colorlib.com/theme/fox/blog.html"
+        },
+        {
+          "text": "contact",
+          "url": "https://preview.colorlib.com/theme/fox/contact.html"
+        },
+        {
+          "Searchbar": [
+            {
+              "text": "search",
+              "type": "input"
+            },
+            {
+              "type": "button",
+              "icon": "search"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "body": [
+    {
+      "jumbotron": {
+        "background-image": "images/xbg_1.jpg.pagespeed.ic._C6ebyFa8h.webp",
+        "title": "Courses",
+        "link-text": [
+          {
+            "text": "HOME",
+            "url": "https://preview.colorlib.com/theme/fox/index.html"
+          },
+          {
+            "text": "Courses",
+            "url": "https://preview.colorlib.com/theme/fox/courses.html"
+          }
+        ]
+      },
+      "allcourses": [
+        {
+          "courseid": 1,
+          "title": "Our Courses",
+          "description": "Separated they live in. A small river named Duden flows by their place and supplies it with the necessary regelialia. It is a paradisematic country",
+          "background-image": "images/xcourse-1.jpg.pagespeed.ic.pQLY9WcV6u.webp",
+          "icon": [
+            {
+              "icon": "user",
+              "text": "MR.KHAN"
+            },
+            {
+              "icon": "table",
+              "text": "10 seats"
+            },
+            {
+              "icon": "calendar",
+              "text": "4 years"
+            }
+          ],
+          "subtitle": "Electric Engineering",
+          "desccourse": "Separated they live in. A small river named Duden flows by their place and supplies it with the necessary regelialia. It is a paradisematic country",
+          "apply": [
+            {
+              "type": "button",
+              "text": "Apply now"
+            }
+          ]
+        },
+        {
+          "courseid": 2,
+          "title": "Our Courses",
+          "description": "Separated they live in. A small river named Duden flows by their place and supplies it with the necessary regelialia. It is a paradisematic country",
+          "background-image": "images/xcourse-2.jpg.pagespeed.ic.pQLY9WcV6u.webp",
+          "icon": [
+            {
+              "icon": "user",
+              "text": "MR.KHAN"
+            },
+            {
+              "icon": "table",
+              "text": "10 seats"
+            },
+            {
+              "icon": "calendar",
+              "text": "4 years"
+            }
+          ],
+          "subtitle": "Electric Engineering",
+          "desccourse": "Separated they live in. A small river named Duden flows by their place and supplies it with the necessary regelialia. It is a paradisematic country",
+          "apply": [
+            {
+              "type": "button",
+              "text": "Apply now"
+            }
+          ]
+        },
+        {
+          "courseid": 3,
+          "title": "Our Courses",
+          "description": "Separated they live in. A small river named Duden flows by their place and supplies it with the necessary regelialia. It is a paradisematic country",
+          "background-image": "images/xcourse-3.jpg.pagespeed.ic.pQLY9WcV6u.webp",
+          "icon": [
+            {
+              "icon": "user",
+              "text": "MR.KHAN"
+            },
+            {
+              "icon": "table",
+              "text": "10 seats"
+            },
+            {
+              "icon": "calendar",
+              "text": "4 years"
+            }
+          ],
+          "subtitle": "Electric Engineering",
+          "desccourse": "Separated they live in. A small river named Duden flows by their place and supplies it with the necessary regelialia. It is a paradisematic country",
+          "apply": [
+            {
+              "type": "button",
+              "text": "Apply now"
+            }
+          ]
+        },
+        {
+          "courseid": 4,
+          "title": "Our Courses",
+          "description": "Separated they live in. A small river named Duden flows by their place and supplies it with the necessary regelialia. It is a paradisematic country",
+          "background-image": "images/xcourse-4.jpg.pagespeed.ic.pQLY9WcV6u.webp",
+          "icon": [
+            {
+              "icon": "user",
+              "text": "MR.KHAN"
+            },
+            {
+              "icon": "table",
+              "text": "10 seats"
+            },
+            {
+              "icon": "calendar",
+              "text": "4 years"
+            }
+          ],
+          "subtitle": "Electric Engineering",
+          "desccourse": "Separated they live in. A small river named Duden flows by their place and supplies it with the necessary regelialia. It is a paradisematic country",
+          "apply": [
+            {
+              "type": "button",
+              "text": "Apply now"
+            }
+          ]
+        },
+        {
+          "courseid": 5,
+          "title": "Our Courses",
+          "description": "Separated they live in. A small river named Duden flows by their place and supplies it with the necessary regelialia. It is a paradisematic country",
+          "background-image": "images/xcourse-5.jpg.pagespeed.ic.pQLY9WcV6u.webp",
+          "icon": [
+            {
+              "icon": "user",
+              "text": "MR.KHAN"
+            },
+            {
+              "icon": "table",
+              "text": "10 seats"
+            },
+            {
+              "icon": "calendar",
+              "text": "4 years"
+            }
+          ],
+          "subtitle": "Electric Engineering",
+          "desccourse": "Separated they live in. A small river named Duden flows by their place and supplies it with the necessary regelialia. It is a paradisematic country",
+          "apply": [
+            {
+              "type": "button",
+              "text": "Apply now"
+            }
+          ]
+        },
+        {
+          "courseid": 6,
+          "title": "Our Courses",
+          "description": "Separated they live in. A small river named Duden flows by their place and supplies it with the necessary regelialia. It is a paradisematic country",
+          "background-image": "images/xcourse-6.jpg.pagespeed.ic.pQLY9WcV6u.webp",
+          "icon": [
+            {
+              "icon": "user",
+              "text": "MR.KHAN"
+            },
+            {
+              "icon": "table",
+              "text": "10 seats"
+            },
+            {
+              "icon": "calendar",
+              "text": "4 years"
+            }
+          ],
+          "subtitle": "Electric Engineering",
+          "desccourse": "Separated they live in. A small river named Duden flows by their place and supplies it with the necessary regelialia. It is a paradisematic country",
+          "apply": [
+            {
+              "type": "button",
+              "text": "Apply now"
+            }
+          ]
+        },
+        {
+          "courseid": 7,
+          "title": "Our Courses",
+          "description": "Separated they live in. A small river named Duden flows by their place and supplies it with the necessary regelialia. It is a paradisematic country",
+          "background-image": "images/xcourse-7.jpg.pagespeed.ic.pQLY9WcV6u.webp",
+          "icon": [
+            {
+              "icon": "user",
+              "text": "MR.KHAN"
+            },
+            {
+              "icon": "table",
+              "text": "10 seats"
+            },
+            {
+              "icon": "calendar",
+              "text": "4 years"
+            }
+          ],
+          "subtitle": "Electric Engineering",
+          "desccourse": "Separated they live in. A small river named Duden flows by their place and supplies it with the necessary regelialia. It is a paradisematic country",
+          "apply": [
+            {
+              "type": "button",
+              "text": "Apply now"
+            }
+          ]
+        },
+        {
+          "courseid": 8,
+          "title": "Our Courses",
+          "description": "Separated they live in. A small river named Duden flows by their place and supplies it with the necessary regelialia. It is a paradisematic country",
+          "background-image": "images/xcourse-8.jpg.pagespeed.ic.pQLY9WcV6u.webp",
+          "icon": [
+            {
+              "icon": "user",
+              "text": "MR.KHAN"
+            },
+            {
+              "icon": "table",
+              "text": "10 seats"
+            },
+            {
+              "icon": "calendar",
+              "text": "4 years"
+            }
+          ],
+          "subtitle": "Electric Engineering",
+          "desccourse": "Separated they live in. A small river named Duden flows by their place and supplies it with the necessary regelialia. It is a paradisematic country",
+          "apply": [
+            {
+              "type": "button",
+              "text": "Apply now"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "footer": [
+    {
+      "text": "Have A Questions?",
+      "link-ico": [
+        {
+          "icon": "map",
+          "text": "230 fake St.Mountain ViewSan Francisco California USA"
+        },
+        {
+          "icon": "phone",
+          "text": "+2 392 3929 210",
+          "url": "https://preview.colorlib.com/theme/fox/courses.html#"
+        },
+        {
+          "icon": "envelope",
+          "text": "info@yourdomain.com",
+          "url": "https://preview.colorlib.com/theme/fox/courses.html#"
+        }
+      ],
+      "recent-blog": [
+        {
+          "idblog": 1,
+          "background-image": "images/ximage_1.jpg.pagespeed.ic.50lFnH-QVI.webp",
+          "title": "Even the all-powerful Pointing has no control about",
+          "date": "26 june 2019",
+          "more": [
+            {
+              "text": "admin",
+              "url": "https://preview.colorlib.com/theme/fox/courses.html#"
+            }
+          ],
+          "link-ico": [
+            {
+              "icon": "chat",
+              "text": "19",
+              "url": "https://preview.colorlib.com/theme/fox/courses.html#"
+            }
+          ]
+        },
+        {
+          "idblog": 2,
+          "background-image": "images/ximage_2.jpg.pagespeed.ic.50lFnH-QVI.webp",
+          "title": "Even the all-powerful Pointing has no control about",
+          "date": "26 june 2019",
+          "more": [
+            {
+              "text": "admin",
+              "url": "https://preview.colorlib.com/theme/fox/courses.html#"
+            }
+          ],
+          "link-ico": [
+            {
+              "icon": "chat",
+              "text": "19",
+              "url": "https://preview.colorlib.com/theme/fox/courses.html#"
+            }
+          ]
+        }
+      ],
+      "links": [
+        {
+          "text": "Home",
+          "url": "https://preview.colorlib.com/theme/fox/courses.html#"
+        },
+        {
+          "text": "About",
+          "url": "https://preview.colorlib.com/theme/fox/courses.html#"
+        },
+        {
+          "text": "Servces",
+          "url": "https://preview.colorlib.com/theme/fox/courses.html#"
+        },
+        {
+          "text": "Departmens",
+          "url": "https://preview.colorlib.com/theme/fox/courses.html#"
+        },
+        {
+          "text": "Contact",
+          "url": "https://preview.colorlib.com/theme/fox/courses.html#"
+        }
+      ],
+      "subscribe": [
+        {
+          "button": [
+            {
+              "type": "text",
+              "text": "Enter email addres"
+            },
+            {
+              "type": "submit",
+              "text": "subscribe"
+            }
+          ],
+          "connect": [
+            {
+              "title": "connect with us",
+              "link-ico": [
+                {
+                  "icon": "twiter",
+                  "url": "https://preview.colorlib.com/theme/fox/courses.html?#"
+                },
+                {
+                  "icon": "facebook",
+                  "url": "https://preview.colorlib.com/theme/fox/courses.html?#"
+                },
+                {
+                  "icon": "instagram",
+                  "url": "https://preview.colorlib.com/theme/fox/courses.html?#"
+                }
+              ]
+            }
+          ],
+          "text": "Copyright ©2022 All rights reserved | This template is made with  by Colorlib"
+        }
+      ]
+    }
+  ]
+}

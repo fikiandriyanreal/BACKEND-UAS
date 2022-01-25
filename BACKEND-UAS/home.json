@@ -1,0 +1,725 @@
+{
+  "header": [
+    {
+      "mainheader": [
+        {
+          "logo": {
+            "text": "fox university",
+            "url": "https://preview.colorlib.com/theme/fox/index.html"
+          }
+        },
+        {
+          "icon": "paperplane",
+          "text": "email",
+          "subtext": "youreemail@email.com"
+        },
+        {
+          "icon": "phone",
+          "text": "call",
+          "subtext": "Call Us: + 1235 2355 98"
+        },
+        {
+          "button": {
+            "text": "Apply now",
+            "url": "https://preview.colorlib.com/theme/fox/index.html#"
+          }
+        }
+      ]
+    },
+    {
+      "navbar": [
+        {
+          "text": "home",
+          "url": "https://preview.colorlib.com/theme/fox/index.html"
+        },
+        {
+          "text": "about",
+          "url": "https://preview.colorlib.com/theme/fox/about.html"
+        },
+        {
+          "text": "Courses",
+          "url": "https://preview.colorlib.com/theme/fox/courses.html"
+        },
+        {
+          "text": "staff",
+          "url": "https://preview.colorlib.com/theme/fox/teacher.html"
+        },
+        {
+          "text": "blog",
+          "url": "https://preview.colorlib.com/theme/fox/blog.html"
+        },
+        {
+          "text": "contact",
+          "url": "https://preview.colorlib.com/theme/fox/contact.html"
+        },
+        {
+          "Searchbar": [
+            {
+              "text": "search",
+              "type": "input"
+            },
+            {
+              "type": "button",
+              "icon": "search"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+
+  "body": [
+    {
+      "slider": [
+        {
+          "image": "images/xbg_1.jpg.pagespeed.ic.ahw9ATggoE.webp",
+          "title": "University, College School Education",
+          "button": [
+            {
+              "text": "contact us",
+              "url": "https://preview.colorlib.com/theme/fox/index.html#"
+            }
+          ]
+        },
+        {
+          "image": "images/xbg_2.jpg.pagespeed.ic.ahw9ATggoE.webp",
+          "title": "Education Needs Complete Solution",
+          "subtitle": "A small river named Duden flows by their place and supplies it with the necessary regelialia",
+          "button": [
+            {
+              "text": "contact us",
+              "url": "https://preview.colorlib.com/theme/fox/index.html#"
+            }
+          ]
+        }
+      ],
+      "services": [
+        {
+          "icon": "Teacher",
+          "title": "Certified Teacher",
+          "description": "Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic."
+        },
+        {
+          "icon": "Reading",
+          "title": "Special Education",
+          "description": "Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic."
+        },
+        {
+          "icon": "Books",
+          "title": "Book & Library",
+          "description": "Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic."
+        },
+        {
+          "icon": "Diploma",
+          "title": "Sport Clubs",
+          "description": "Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic."
+        }
+      ],
+      "content": [
+        {
+          "idcontent": 1,
+          "title": "What we Offer",
+          "description": "On her way she met a copy. The copy warned the Little Blind Text, that where it came from it would have been rewritten a thousand times and everything that was left from its origin would be the word.",
+          "background-image": "images/xabout.jpg.pagespeed.ic.tRwUCMkUuR.webp"
+        },
+        {
+          "idservice": 1,
+          "icon": "security",
+          "title": "Safety First",
+          "description": "Far far away, behind the word mountains, far from the countries Vokalia."
+        },
+        {
+          "idservice": 2,
+          "icon": "reading",
+          "title": "Regular Classes",
+          "description": "Far far away, behind the word mountains, far from the countries Vokalia."
+        },
+        {
+          "idservice": 3,
+          "icon": "diploma",
+          "title": "Certified Teachers",
+          "description": "Far far away, behind the word mountains, far from the countries Vokalia."
+        },
+        {
+          "idservice": 4,
+          "icon": "education",
+          "title": "Sufficient Classroms",
+          "description": "Far far away, behind the word mountains, far from the countries Vokalia."
+        },
+        {
+          "idservice": 5,
+          "icon": "jigsaw",
+          "title": "Creative Lessons",
+          "description": "Far far away, behind the word mountains, far from the countries Vokalia."
+        },
+        {
+          "idservice": 5,
+          "icon": "kids",
+          "title": "Sport Facilities",
+          "description": "Far far away, behind the word mountains, far from the countries Vokalia."
+        }
+      ],
+      "about-us": [
+        {
+          "idcontent": 2,
+          "title": "Fox University",
+          "descaboutus": "Separated they live in. A small river named Duden flows by their place and supplies it with the necessary regelialia. It is a paradisematic country. A small river named Duden flows by their place and supplies it with the necessary regelialia. It is a paradisematic country, in which roasted parts of sentences fly into your mouth.A small river named Duden flows by their place and supplies it with the necessary regelialia. It is a paradisematic country, in which roasted parts of sentences fly into your mouth.",
+          "background-image": "images/xabout2.jpg.pagespeed.ic.tRwUCMkUuR.webp",
+          "certified-teachers": 18,
+          "students": 401,
+          "courses": 30,
+          "awards-won": 50
+        }
+      ],
+      "course": [
+        {
+          "courseid": 1,
+          "title": "Our Courses",
+          "description": "Separated they live in. A small river named Duden flows by their place and supplies it with the necessary regelialia. It is a paradisematic country",
+          "background-image": "images/xcourse-1.jpg.pagespeed.ic.pQLY9WcV6u.webp",
+          "icon": [
+            {
+              "icon": "user",
+              "text": "MR.KHAN"
+            },
+            {
+              "icon": "table",
+              "text": "10 seats"
+            },
+            {
+              "icon": "calendar",
+              "text": "4 years"
+            }
+          ],
+          "subtitle": "Electric Engineering",
+          "desccourse": "Separated they live in. A small river named Duden flows by their place and supplies it with the necessary regelialia. It is a paradisematic country",
+          "apply": [
+            {
+              "type": "button",
+              "text": "Apply now"
+            }
+          ]
+        },
+        {
+          "courseid": 2,
+          "title": "Our Courses",
+          "description": "Separated they live in. A small river named Duden flows by their place and supplies it with the necessary regelialia. It is a paradisematic country",
+          "background-image": "images/xcourse-2.jpg.pagespeed.ic.pQLY9WcV6u.webp",
+          "icon": [
+            {
+              "icon": "user",
+              "text": "MR.KHAN"
+            },
+            {
+              "icon": "table",
+              "text": "10 seats"
+            },
+            {
+              "icon": "calendar",
+              "text": "4 years"
+            }
+          ],
+          "subtitle": "Electric Engineering",
+          "desccourse": "Separated they live in. A small river named Duden flows by their place and supplies it with the necessary regelialia. It is a paradisematic country",
+          "apply": [
+            {
+              "type": "button",
+              "text": "Apply now"
+            }
+          ]
+        },
+        {
+          "courseid": 3,
+          "title": "Our Courses",
+          "description": "Separated they live in. A small river named Duden flows by their place and supplies it with the necessary regelialia. It is a paradisematic country",
+          "background-image": "images/xcourse-3.jpg.pagespeed.ic.pQLY9WcV6u.webp",
+          "icon": [
+            {
+              "icon": "user",
+              "text": "MR.KHAN"
+            },
+            {
+              "icon": "table",
+              "text": "10 seats"
+            },
+            {
+              "icon": "calendar",
+              "text": "4 years"
+            }
+          ],
+          "subtitle": "Electric Engineering",
+          "desccourse": "Separated they live in. A small river named Duden flows by their place and supplies it with the necessary regelialia. It is a paradisematic country",
+          "apply": [
+            {
+              "type": "button",
+              "text": "Apply now"
+            }
+          ]
+        },
+        {
+          "courseid": 4,
+          "title": "Our Courses",
+          "description": "Separated they live in. A small river named Duden flows by their place and supplies it with the necessary regelialia. It is a paradisematic country",
+          "background-image": "images/xcourse-4.jpg.pagespeed.ic.pQLY9WcV6u.webp",
+          "icon": [
+            {
+              "icon": "user",
+              "text": "MR.KHAN"
+            },
+            {
+              "icon": "table",
+              "text": "10 seats"
+            },
+            {
+              "icon": "calendar",
+              "text": "4 years"
+            }
+          ],
+          "subtitle": "Electric Engineering",
+          "desccourse": "Separated they live in. A small river named Duden flows by their place and supplies it with the necessary regelialia. It is a paradisematic country",
+          "apply": [
+            {
+              "type": "button",
+              "text": "Apply now"
+            }
+          ]
+        }
+      ],
+      "teachers": [
+        {
+          "title": "Certified Teachers",
+          "subtitle": "Separated they live in. A small river named Duden flows by their place and supplies it with the necessary regelialia. It is a paradisematic country",
+          "information": [
+            {
+              "teachersid": 1,
+              "background-image": "images/xteacher-1.jpg.pagespeed.ic.HLF1ajQ_dd.webp",
+              "name": "Bianca Wilson",
+              "as": "teacher",
+              "descteachers": "I am an ambitious workaholic, but apart from that, pretty simple person.",
+              "link-ico": [
+                {
+                  "icon": "twiter",
+                  "url": "https://preview.colorlib.com/theme/fox/index.html#"
+                },
+                {
+                  "icon": "faceebok",
+                  "url": "https://preview.colorlib.com/theme/fox/index.html#"
+                },
+                {
+                  "icon": "google+",
+                  "url": "https://preview.colorlib.com/theme/fox/index.html#"
+                },
+                {
+                  "icon": "instagram",
+                  "url": "https://preview.colorlib.com/theme/fox/index.html#"
+                }
+              ]
+            },
+            {
+              "teachersid": 2,
+              "background-image": "images/xteacher-2.jpg.pagespeed.ic.HLF1ajQ_dd.webp",
+              "name": "Mitch Parker",
+              "as": "english teacher",
+              "descteachers": "I am an ambitious workaholic, but apart from that, pretty simple person.",
+              "link-ico": [
+                {
+                  "icon": "twiter",
+                  "url": "https://preview.colorlib.com/theme/fox/index.html#"
+                },
+                {
+                  "icon": "faceebok",
+                  "url": "https://preview.colorlib.com/theme/fox/index.html#"
+                },
+                {
+                  "icon": "google+",
+                  "url": "https://preview.colorlib.com/theme/fox/index.html#"
+                },
+                {
+                  "icon": "instagram",
+                  "url": "https://preview.colorlib.com/theme/fox/index.html#"
+                }
+              ]
+            },
+            {
+              "teachersid": 3,
+              "background-image": "images/xteacher-3.jpg.pagespeed.ic.HLF1ajQ_dd.webp",
+              "name": "Stella Smith",
+              "as": "art teacher",
+              "descteachers": "I am an ambitious workaholic, but apart from that, pretty simple person.",
+              "link-ico": [
+                {
+                  "icon": "twiter",
+                  "url": "https://preview.colorlib.com/theme/fox/index.html#"
+                },
+                {
+                  "icon": "faceebok",
+                  "url": "https://preview.colorlib.com/theme/fox/index.html#"
+                },
+                {
+                  "icon": "google+",
+                  "url": "https://preview.colorlib.com/theme/fox/index.html#"
+                },
+                {
+                  "icon": "instagram",
+                  "url": "https://preview.colorlib.com/theme/fox/index.html#"
+                }
+              ]
+            },
+            {
+              "teachersid": 4,
+              "background-image": "images/xteacher-4.jpg.pagespeed.ic.HLF1ajQ_dd.webp",
+              "name": "Monshe Henderson",
+              "as": "science teacher",
+              "descteachers": "I am an ambitious workaholic, but apart from that, pretty simple person.",
+              "link-ico": [
+                {
+                  "icon": "twiter",
+                  "url": "https://preview.colorlib.com/theme/fox/index.html#"
+                },
+                {
+                  "icon": "faceebok",
+                  "url": "https://preview.colorlib.com/theme/fox/index.html#"
+                },
+                {
+                  "icon": "google+",
+                  "url": "https://preview.colorlib.com/theme/fox/index.html#"
+                },
+                {
+                  "icon": "instagram",
+                  "url": "https://preview.colorlib.com/theme/fox/index.html#"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "form-registration": [
+        {
+          "title": "Request A Quote",
+          "subtitle": "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.",
+          "input": [
+            {
+              "type": "text",
+              "text": "First Name"
+            },
+            {
+              "type": "text",
+              "text": "Last Name"
+            },
+            {
+              "type": "select",
+              "option": [
+                {
+                  "optionid": 1,
+                  "text": "Select Your Course"
+                },
+                {
+                  "optionid": 2,
+                  "text": "Art Lesson"
+                },
+                {
+                  "optionid": 3,
+                  "text": "Language Lesson"
+                },
+                {
+                  "optionid": 4,
+                  "text": "Music Lesson"
+                },
+                {
+                  "optionid": 5,
+                  "text": "Sport"
+                },
+                {
+                  "optionid": 6,
+                  "text": "Other Service"
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "phone"
+            },
+            {
+              "type": "text area",
+              "text": "Message"
+            }
+          ],
+          "button": {
+            "type": "button",
+            "text": "Request A Quote",
+            "url": "https://preview.colorlib.com/theme/fox/index.html?#"
+          }
+        }
+      ],
+      "blog": [
+        {
+          "title": "Recent Blog",
+          "description": "Separated they live in. A small river named Duden flows by their place and supplies it with the necessary regelialia. It is a paradisematic country",
+          "recent-blog": [
+            {
+              "idblog": 1,
+              "background-image": "images/ximage_1.jpg.pagespeed.ic.50lFnH-QVI.webp",
+              "title": "Skills To Develop Your Child Memory",
+              "descblog": "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.",
+              "date": "26 june 2019",
+              "button": [
+                {
+                  "text": "Read More",
+                  "url": "https://preview.colorlib.com/theme/fox/index.html?#"
+                }
+              ],
+              "more": [
+                {
+                  "text": "admin",
+                  "url": "https://preview.colorlib.com/theme/fox/index.html#"
+                }
+              ],
+              "link-ico": [
+                {
+                  "icon": "chat",
+                  "text": "3",
+                  "url": "https://preview.colorlib.com/theme/fox/index.html#"
+                }
+              ]
+            },
+            {
+              "idblog": 2,
+              "background-image": "images/ximage_2.jpg.pagespeed.ic.50lFnH-QVI.webp",
+              "title": "Skills To Develop Your Child Memory",
+              "descblog": "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.",
+              "date": "26 june 2019",
+              "button": [
+                {
+                  "text": "Read More",
+                  "url": "https://preview.colorlib.com/theme/fox/index.html?#"
+                }
+              ],
+              "more": [
+                {
+                  "text": "admin",
+                  "url": "https://preview.colorlib.com/theme/fox/index.html#"
+                }
+              ],
+              "link-ico": [
+                {
+                  "icon": "chat",
+                  "text": "3",
+                  "url": "https://preview.colorlib.com/theme/fox/index.html#"
+                }
+              ]
+            },
+            {
+              "idblog": 3,
+              "background-image": "images/ximage_3.jpg.pagespeed.ic.50lFnH-QVI.webp",
+              "title": "Skills To Develop Your Child Memory",
+              "descblog": "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.",
+              "date": "26 june 2019",
+              "button": {
+                "text": "Read More",
+                "url": "https://preview.colorlib.com/theme/fox/index.html?#"
+              },
+              "more": {
+                "text": "admin",
+                "url": "https://preview.colorlib.com/theme/fox/index.html#"
+              },
+              "link-ico": {
+                "icon": "chat",
+                "text": "3",
+                "url": "https://preview.colorlib.com/theme/fox/index.html#"
+              }
+            }
+          ]
+        }
+      ],
+      "testimoni": [
+        {
+          "title": "Student Says About Us",
+          "subtitle": "Separated they live in. A small river named Duden flows by their place and supplies it with the necessary regelialia. It is a paradisematic country",
+          "description": [
+            {
+              "background-image": "images/xteacher-1.jpg.pagespeed.ic.HLF1ajQ_dd.webp",
+              "name": "Ken Bosh",
+              "quote": "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.",
+              "as": "mother"
+            },
+            {
+              "background-image": "images/xteacher-1.jpg.pagespeed.ic.HLF1ajQ_dd.webp",
+              "name": "Racky Henderson",
+              "quote": "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.",
+              "as": "father"
+            },
+            {
+              "background-image": "images/xteacher-2.jpg.pagespeed.ic.HLF1ajQ_dd.webp",
+              "name": "Henry dee",
+              "quote": "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.",
+              "as": "mother"
+            },
+            {
+              "background-image": "images/xteacher-3.jpg.pagespeed.ic.HLF1ajQ_dd.webp",
+              "name": "Mark huff",
+              "quote": "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.",
+              "as": "mother"
+            },
+            {
+              "background-image": "images/xteacher-4.jpg.pagespeed.ic.HLF1ajQ_dd.webp",
+              "name": "Rodel Golez",
+              "quote": "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.",
+              "as": "mother"
+            }
+          ]
+        }
+      ],
+      "galeri": [
+        {
+          "image": [
+            {
+              "background-image": "https://preview.colorlib.com/theme/fox/images/image_1.jpg",
+              "button": {
+                "type": "zoom",
+                "icon": "instagram"
+              }
+            },
+            {
+              "background-image": "https://preview.colorlib.com/theme/fox/images/image_2.jpg",
+              "button": {
+                "type": "zoom",
+                "icon": "instagram"
+              }
+            },
+            {
+              "background-image": "https://preview.colorlib.com/theme/fox/images/image_3.jpg",
+              "button": {
+                "type": "zoom",
+                "icon": "instagram"
+              }
+            },
+            {
+              "background-image": "https://preview.colorlib.com/theme/fox/images/image_4.jpg",
+              "button": {
+                "type": "zoom",
+                "icon": "instagram"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "footer": [
+    {
+      "text": "Have A Questions?",
+      "link-ico": [
+        {
+          "icon": "map",
+          "text": "230 fake St.Mountain ViewSan Francisco California USA"
+        },
+        {
+          "icon": "phone",
+          "text": "+2 392 3929 210",
+          "url": "https://preview.colorlib.com/theme/fox/index.html#"
+        },
+        {
+          "icon": "envelope",
+          "text": "info@yourdomain.com",
+          "url": "https://preview.colorlib.com/theme/fox/index.html#"
+        }
+      ],
+      "recent-blog": [
+        {
+          "idblog": 1,
+          "background-image": "images/ximage_1.jpg.pagespeed.ic.50lFnH-QVI.webp",
+          "title": "Even the all-powerful Pointing has no control about",
+          "date": "26 june 2019",
+          "more": [
+            {
+              "text": "admin",
+              "url": "https://preview.colorlib.com/theme/fox/index.html#"
+            }
+          ],
+          "link-ico": [
+            {
+              "icon": "chat",
+              "text": "19",
+              "url": "https://preview.colorlib.com/theme/fox/index.html#"
+            }
+          ]
+        },
+        {
+          "idblog": 2,
+          "background-image": "images/ximage_2.jpg.pagespeed.ic.50lFnH-QVI.webp",
+          "title": "Even the all-powerful Pointing has no control about",
+          "date": "26 june 2019",
+          "more": [
+            {
+              "text": "admin",
+              "url": "https://preview.colorlib.com/theme/fox/index.html#"
+            }
+          ],
+          "link-ico": [
+            {
+              "icon": "chat",
+              "text": "19",
+              "url": "https://preview.colorlib.com/theme/fox/index.html#"
+            }
+          ]
+        }
+      ],
+      "links": [
+        {
+          "text": "Home",
+          "url": "https://preview.colorlib.com/theme/fox/index.html#"
+        },
+        {
+          "text": "About",
+          "url": "https://preview.colorlib.com/theme/fox/index.html#"
+        },
+        {
+          "text": "Servces",
+          "url": "https://preview.colorlib.com/theme/fox/index.html#"
+        },
+        {
+          "text": "Departmens",
+          "url": "https://preview.colorlib.com/theme/fox/index.html#"
+        },
+        {
+          "text": "Contact",
+          "url": "https://preview.colorlib.com/theme/fox/index.html#"
+        }
+      ],
+      "subscribe": [
+        {
+          "button": [
+            {
+              "type": "text",
+              "text": "Enter email addres"
+            },
+            {
+              "type": "submit",
+              "text": "subscribe"
+            }
+          ],
+          "connect": [
+            {
+              "title": "connect with us",
+              "link-ico": [
+                {
+                  "icon": "twiter",
+                  "url": "https://preview.colorlib.com/theme/fox/index.html?#"
+                },
+                {
+                  "icon": "facebook",
+                  "url": "https://preview.colorlib.com/theme/fox/index.html?#"
+                },
+                {
+                  "icon": "instagram",
+                  "url": "https://preview.colorlib.com/theme/fox/index.html?#"
+                }
+              ]
+            }
+          ],
+          "text": "Copyright ©2022 All rights reserved | This template is made with  by Colorlib"
+        }
+      ]
+    }
+  ]
+}
